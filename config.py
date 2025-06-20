@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # 登入資訊
-STUDENT_ID = "C111110157"  # 您的學號
-PASSWORD = "Leo237827848"      # 您的密碼
+STUDENT_ID = ""  # 您的學號
+PASSWORD = ""      # 您的密碼
 
 # 網站設定
 LOGIN_URL = "https://ceq.nkust.edu.tw/Home"
